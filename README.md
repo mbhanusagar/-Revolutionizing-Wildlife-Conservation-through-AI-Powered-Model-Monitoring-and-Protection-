@@ -44,8 +44,9 @@ The "Revolutionizing Wildlife Conservation through AI-Powered Model Monitoring a
 		•	Operating System	    :	Windows, MacOS, or Linux distributions.
 		•	Programming Language	:	Python for implementing image processing and yolov8 model
 		•	Development Environment	:	PyCharm, Visual Studio Code, or Jupyter Notebook.
-		•	Libraries	            :	Tensorflow, Twilio, Ultralytics, OpenCV, YOLO from Ultralytics  	
-                                                                                                        		HARDWARE REQUIREMENTS
+		•	Libraries	            :	Tensorflow, Twilio, Ultralytics, OpenCV, YOLO from Ultralytics
+		
+         HARDWARE REQUIREMENTS
 		•	Processor	   :	intel i3(minimum)
 		•	Ram	           :	4 GB (minimum)
 		•	Hard Disk	   :	250GB (minimum)
