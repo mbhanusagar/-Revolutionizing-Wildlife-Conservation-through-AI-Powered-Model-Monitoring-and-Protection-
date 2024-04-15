@@ -40,13 +40,13 @@ The "Revolutionizing Wildlife Conservation through AI-Powered Model Monitoring a
 11. Release Video Capture and Close Windows:
 		Once video processing is complete, video capture resources are released, and any remaining windows are closed. This step ensures that system 							resources are freed up and any open windows are closed properly.
 
-SOFTWARE REQUIREMENTS
-•	Operating System	    :	Windows, MacOS, or Linux distributions.
-•	Programming Language	:	Python for implementing image processing and yolov8 model
-•	Development Environment	:	PyCharm, Visual Studio Code, or Jupyter Notebook.
-•	Libraries	            :	Tensorflow, Twilio, Ultralytics, OpenCV, YOLO from Ultralytics  	
-                                                                                                                                                          HARDWARE REQUIREMENTS
-•	Processor	   :	intel i3(minimum)
-•	Ram	           :	4 GB (minimum)
-•	Hard Disk	   :	250GB (minimum)
-•	Input Devices  :	Keyboard and mouse.
+		SOFTWARE REQUIREMENTS
+		•	Operating System	    :	Windows, MacOS, or Linux distributions.
+		•	Programming Language	:	Python for implementing image processing and yolov8 model
+		•	Development Environment	:	PyCharm, Visual Studio Code, or Jupyter Notebook.
+		•	Libraries	            :	Tensorflow, Twilio, Ultralytics, OpenCV, YOLO from Ultralytics  	
+                                                                                                        		HARDWARE REQUIREMENTS
+		•	Processor	   :	intel i3(minimum)
+		•	Ram	           :	4 GB (minimum)
+		•	Hard Disk	   :	250GB (minimum)
+		•	Input Devices  :	Keyboard and mouse.
